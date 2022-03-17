@@ -1,0 +1,7 @@
+{
+   "require": {
+        "mobiledetect/mobiledetectlib": "^2.8"
+    }
+}
+    
+
