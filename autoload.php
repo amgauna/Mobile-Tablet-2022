@@ -1,7 +1,7 @@
 <?php
 
 /* PHP Library / Mobile Detect = http://mobiledetect.net/ */
-/* https://github.com/serbanghita/Mobile-Detect/Mobile_Detect.php */
+/* https://github.com/serbanghita/Mobile-Detect/ */
 
 // Include and instantiate the class.
 
