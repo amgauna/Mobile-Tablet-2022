@@ -2,5 +2,5 @@
 
 ## PHP Lib Mobile Detect
 
-[[img "mobile-detect.jpg"]]
+<img href="mobile-detect.jpg">
 
