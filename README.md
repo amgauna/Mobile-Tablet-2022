@@ -2,5 +2,5 @@
 
 ## PHP Lib Mobile Detect
 
-<img href="mobile-detect.jpg">
+<img src="mobile-detect.jpg" width="700px">
 
