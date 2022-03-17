@@ -10,5 +10,7 @@
 
 ### I spent weeks studying and testing the Lib Detect_Mobile.php code and now it's finally the way I like it.
 
+###
+
 <img src="mobile-detect.jpg" width="700px">
 
