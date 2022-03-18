@@ -110,6 +110,27 @@ error_reporting(E_ALL); // Report all PHP errors
     <link href='http://fonts.googleapis.com/css?family=Maven+Pro' rel='stylesheet' type='text/css'>
 
 <!-- =============================================================================================== -->
+
+<style>
+
+    /* Código de página UTF-8 / PT-BR */
+    @charset "UTF-8";
+
+    @media only screen and (min-device-width: 320px) and (max-device-width: 568px)
+                       and (-webkit-min-device-pixel-ratio: 2) { font-size: small }
+    
+    /* mobile / Grid 320px ate 568px / media screen / versão celular / 4 a 6 polegadas */
+    /* tablet / Grid 768px / media screen / versão tablet / 5 a 10 polegadas */
+    /* usar o grid medium 768px = col-md-auto com font-zize: 15px */
+    /* Device-height = Descreve a altura do dispositivo de saída( ou seja, toda a tela ou página, em vez 
+       de apenas a área de renderização, tal como a janela do documento). */
+    /* Device-width = Descreve a largura do dispositivo e saída (ou seja, toda a tela ou página, em vez 
+       de apenas a área de renderização, tal como a janela do documento). */
+
+</style>
+
+<!-- =============================================================================================== -->
+
 </head> <!-- fim do cabecalho -->
 
 
