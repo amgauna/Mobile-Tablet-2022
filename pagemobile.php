@@ -127,7 +127,7 @@ error_reporting(E_ALL); // Report all PHP errors
     fim do exemplo de grid -->
 
 
-    <h5 style="text-align: center;"> <script>document.write(Date());</script> </h5> 
+    <p style="text-align: center; color: #000;"> <script>document.write(Date());</script> </p> 
 
     <!-- Menu -->
     <?php require_once('web/menu2022.php'); ?>
@@ -142,15 +142,13 @@ error_reporting(E_ALL); // Report all PHP errors
          <figure class="responsive" style="margin:auto; padding:auto;">	
 	     <img class="responsive" align="left" width="80px" height="80px" src="assets/fotos/AnaGauna-Junho2019B.jpg">
 	     </figure> 		 
-         <h1 style="color: #eeeeee;"> Administração de Serviços Técnicos </h1> 
+         <h4 style="color: #eeeeee;"> Adm. de Serviços Técnicos </h4> 
          <span style="color: #eeeeee;"> Consultoria Técnica, Projetos TI, <br> SEO, Marketing Digital, Social Media </span> 
          <p></p>
     </div> <!-- col-lg-12 -->
 
     <!-- rede-social -->   
     <?php require_once('web/redesocial2022.php'); ?>  
-
-    </div> </div> <!-- container /row -->
 
 
     <main> 
@@ -199,7 +197,6 @@ error_reporting(E_ALL); // Report all PHP errors
         <figure style="position: relative; margin: auto; padding: auto; ">
         <img class="responsive" width="100px" height="100px" src="assets\images\png\microsoft-office.png">
         <img class="responsive" width="100px" height="100px" src="assets\images\png\microsoft-power-bi.png">
-        <img class="responsive" width="100px" height="100px" src="assets\images\png\microsoft-sharepoint.png">
         <img class="responsive" width="100px" height="100px" src="assets\images\png\microsoft-teams.png">
         </figure>
     </div>
@@ -236,7 +233,6 @@ error_reporting(E_ALL); // Report all PHP errors
         <p>
         <figure style="position: relative; margin: auto; padding: auto; ">
         <img class="responsive" width="100px" height="100px" src="assets\images\jpg\suporte-tecnico.jpg">
-        <img class="responsive" width="100px" height="100px" src="assets\images\jpg\suporte-tecnico9.jpg">
         <img class="responsive" width="100px" height="100px" src="assets\images\jpg\microsoft-windows10-300px.jpg">
         <img class="responsive" width="100px" height="100px" src="assets\images\jpg\windows-server.jpg">
         </figure>
@@ -248,7 +244,6 @@ error_reporting(E_ALL); // Report all PHP errors
         <h5> <b> SUPORTE TÉCNICO (ERP TOTVS) </b> </h5>
         <p>
         <figure style="position: relative; margin: auto; padding: auto; ">
-        <img class="responsive" width="100px" height="100px" src="assets\images\jpg\sistemas-erp.jpg">
         <img class="responsive" width="100px" height="100px" src="assets\images\jpg\microsiga-protheus.jpg">
         <img class="responsive" width="100px" height="100px" src="assets\images\png\totvs-protheus.png">
         <img class="responsive" width="100px" height="100px" src="assets\images\png\totvs-rm-labore.png">
@@ -264,7 +259,6 @@ error_reporting(E_ALL); // Report all PHP errors
         <img class="responsive" width="100px" height="100px" src="assets\images\jpg\pix-banco-central.jpg">
         <img class="responsive" width="100px" height="100px" src="assets\images\jpg\qrcode.jpg">
         <img class="responsive" width="100px" height="100px" src="assets\images\jpg\pagseguro_uol_cartao.jpg">
-        <img class="responsive" width="100px" height="100px" src="assets\images\jpg\notacarioca-prefeiturarj2.jpg">
         </figure>
     </div>
 
@@ -317,7 +311,7 @@ error_reporting(E_ALL); // Report all PHP errors
 
     <p></p>
 
-    </div> </div> </div> <!-- row / container -->
+    </div> </div> <!-- row / container -->
 
     <!--
     <div id="Serasa" style="background:#7FFFD4; color:darkblue; border:1px solid #aaa; 
@@ -392,32 +386,32 @@ error_reporting(E_ALL); // Report all PHP errors
         <!-- Social buttons -->  <p></p>
         <h6 class="font-weight-bold"> <b> Endereço (home-office) </b> </h6>
         <!--  Endereço -->
-        <p><b>  Rua Voluntarios da Patria nº 305, Apto. 202, Edificio Cibel, Bairro: Botafogo,
-                Cep: 22270-003, Cidade: Rio de Janeiro, UF: RJ, Brasil </b> </p>
+        <p><i>  Rua Voluntarios da Patria nº 305, Apto. 202, Edificio Cibel, Bairro: Botafogo,
+                Cep: 22270-003, Cidade: Rio de Janeiro, UF: RJ, Brasil </i> </p>
   </address> <!--- Grid column / Left -->
 
   <!-- Grid column / Direita / Right --> 
   <address style="text-align: left; border: 1px solid #aaa; margin: auto; padding: auto;"> <p></p>
         <h6 class="font-weight-bold"> <b> Contato (whatsapp) </b> </h6>
         <!-- Telefone -->
-        <p> <b> Telefone: <a href="https://api.whatsapp.com/send?phone=552125380399" style="color:#120a8f;"> (21) 2538-0399 </a> | 
+        <p> <i> Telefone: <a href="https://api.whatsapp.com/send?phone=552125380399" style="color:#120a8f;"> (21) 2538-0399 </a> | 
         <a href="https://api.whatsapp.com/send?phone=5521979371230" style="color:#120a8f;"> (21) 97937-1230 </a> <br>
         <!--  Email -->
         Email: <a href="mailto:amgauna@anagauna.eti.br" style="color:#120a8f;"> amgauna@anagauna.eti.br </a> <br> 
-        Skype: <a href="mailto:amgauna@outlook.com" style="color:#120a8f;"> @amgauna </a> </b> </p>
+        Skype: <a href="mailto:amgauna@outlook.com" style="color:#120a8f;"> @amgauna </a> </i> </p>
   </address> <!-- Grid column / Right -->
 
   <address style="text-align:center; border: 1px solid #aaa; margin: auto; padding: auto;"> <p></p>
-      <p> <b> Site hospedado na <a href="https://locaweb.com.br" style="color:darkblue;"> locaweb.com.br </b> </a> <br>
+      <p> <i> Site hospedado na <a href="https://locaweb.com.br" style="color:darkblue;"> locaweb.com.br </a>  </i> <br>
       <!-- fim do Copyright -->
-      <b> <i style="color: darkblue;"> "Tudo posso naquele que me fortalece" <br> (Filipenses 4:13) </i> </b> </p>
+      <i style="color: darkblue;"> "Tudo posso naquele que me fortalece" <br> (Filipenses 4:13) </i> </p>
   </address>
 
   <address style="background: #474A51; color: #ffffff; border: 2px solid #aaa; 
                    text-align:center; margin: auto; padding: auto;">  
       <!-- Copyright --> 
-      <h6 style="text-align:center; margin: auto; padding: auto;"> 
-      <b> Copyright: ©2022 - Ana Mercedes Gauna <br> (CRA-RJ: 03-03161) </b> </h6>
+      <span style="text-align:center; margin: auto; padding: auto;"> 
+      <i> Copyright: ©2022 - Ana Mercedes Gauna <br> (CRA-RJ: 03-03161) </i> </span>
       <!-- fim do Copyright -->   
   </address>
 
