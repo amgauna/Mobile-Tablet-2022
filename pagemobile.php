@@ -111,7 +111,7 @@ error_reporting(E_ALL); // Report all PHP errors
 
 <!-- =============================================================================================== -->
 
-<stype type="text/css">
+<style type="text/css">
 
     /* Código de página UTF-8 / PT-BR */
     @charset "UTF-8";
